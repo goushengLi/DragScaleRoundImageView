@@ -5,10 +5,10 @@
 #Usage
 
 #XML:
-        <com.yongcan.DragScaleRoundImageView.DragScaleRoundImageView
+        <yongcan.dragscaleroundimageview.DragScaleRoundImageView
                 android:id="@+id/iv"
-                android:layout_width="250dp"
-                android:layout_height="550dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
                 android:layout_margin="10dp"
                 android:src="@drawable/bg"/>
         
