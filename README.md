@@ -15,3 +15,6 @@
 DragScaleRoundImageView iv = (DragScaleRoundImageView) findViewById(R.id.iv);
 
 iv.setBorderRadius(20);//设置圆角
+
+#演示
+![image](https://github.com/goushengLi/DragScaleRoundImageView/blob/master/MyApplication/app/src/main/res/drawable/show.gif)
