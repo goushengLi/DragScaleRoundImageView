@@ -1,4 +1,4 @@
-package com.yongcan.DragScaleRoundImageView;
+package yongcan.dragscaleroundimageview;
 
 import android.graphics.Bitmap;
 import android.graphics.Matrix;

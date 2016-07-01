@@ -1,4 +1,4 @@
-package com.yongcan.DragScaleRoundImageView;
+package yongcan.dragscaleroundimageview;
 
 import android.view.GestureDetector;
 import android.view.MotionEvent;

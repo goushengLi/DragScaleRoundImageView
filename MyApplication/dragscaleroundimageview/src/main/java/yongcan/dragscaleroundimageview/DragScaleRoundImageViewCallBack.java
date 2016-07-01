@@ -1,4 +1,4 @@
-package com.yongcan.DragScaleRoundImageView;
+package yongcan.dragscaleroundimageview;
 
 /**
  * 用来沟通DragScaleRoundImageView和手势适配器

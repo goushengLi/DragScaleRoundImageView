@@ -3,7 +3,8 @@ package com.example.administrator.myapplication;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.yongcan.DragScaleRoundImageView.DragScaleRoundImageView;
+import yongcan.dragscaleroundimageview.DragScaleRoundImageView;
+
 
 public class MainActivity extends AppCompatActivity {
 
