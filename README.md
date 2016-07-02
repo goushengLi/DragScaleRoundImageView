@@ -4,6 +4,8 @@
 
 #Usage
 
+compile 'yongcan.dragscaleroundimageview:dragscaleroundimageview:1.0.0'
+
 #XML:
         <yongcan.dragscaleroundimageview.DragScaleRoundImageView
                 android:id="@+id/iv"
